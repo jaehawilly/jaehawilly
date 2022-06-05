@@ -1,6 +1,6 @@
 ### Hello 👋
 
-### Welcome to Jaeha's Github profile
+### Welcome to Jaeha's Github
 
 <!--
 **jaehawilly/jaehawilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
