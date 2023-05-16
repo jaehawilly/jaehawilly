@@ -6,6 +6,7 @@
 
 ## 📧 Contact
 - jaehawilly@naver.com
+- jaehawilly@poscodx.com
 
 ## 🌐 Blog
 [<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">](https://velog.io/@jaehawilly)
